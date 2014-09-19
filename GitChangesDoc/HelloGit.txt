@@ -1,7 +1,2 @@
 This is my first file.
-This is my second change.
-This is my third change.
-This is my second change.
-This is my third change.
-This is my second change.
-This is my third change.
+removed all commits.
